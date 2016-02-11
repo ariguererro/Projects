@@ -1,5 +1,5 @@
 # Projects
-This Repo consists of all Projects that I have done from the PAst
+
 
 
 Steps in Configuring RAID 0 for SSD AWS
